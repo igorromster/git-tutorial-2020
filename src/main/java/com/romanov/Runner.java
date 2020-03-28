@@ -9,7 +9,7 @@ public class Runner {
 			}
 		}
 	}
-	
+	//
 	private static boolean isEven(int a) {
 		return a % 2 == 0;
 	}
